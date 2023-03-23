@@ -1,0 +1,2 @@
+((A1 Lata-Coca-Cola 10 25) (A2 Botella-Coca-Cola-500ml 20 15) (A3 Botella-Ciel-600ml 22 22) (B1 Sabritas 13 41) (B2 Ruffles-Originales 11 27) (B3 Ruffles-Queso 13 16) (B4 Cheetos 17 30) (A4 JUMEX 15 3) (C1 Hamburguesa 50 2) (C2 Palomitas 5 31))
+((1 1 49 50) (2 2 13 45) (3 5 36 40) (4 10 10 25) (5 20 15 20) (6 50 1 5))
